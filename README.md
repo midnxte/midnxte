@@ -3,4 +3,4 @@
 
 <hr>
 
-[![Followers](https://img.shields.io/github/followers/midnxte?color=black&logoColor=black&style=social)
+[!Followers](https://img.shields.io/github/followers/midnxte?color=black&logoColor=black&style=social)
