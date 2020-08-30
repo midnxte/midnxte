@@ -4,3 +4,4 @@
 <hr>
 
 ![followers](https://img.shields.io/github/followers/midnxte?logoColor=blue&style=social)
+[![discord](https://img.shields.io/discord/749031640147427388?label=Join%20Our%20Communtiy&logo=discord&style=social)](https://discord.com/invite/p9ebc4j)
